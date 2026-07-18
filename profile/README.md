@@ -8,15 +8,13 @@ Small rituals for large systems
 
 ---
 
-**Ritegear** is a solo development project focused on building small, polished systems for complex little worlds.
+**Ritgear** is my solo development space for games, bots, integrations, and practical apps.
 
-I create tools that combine game design, automation, atmosphere and practical software: Discord bots, game integrations, apps, prototypes and strange interactive mechanisms.
+I build gameplay prototypes, Discord community tools, game-related systems, and small products with clear UX and a strong atmosphere.
 
+## Current focus
 
-## Focus
-
-- games and experimental mechanics;
-- Discord bots and community systems;
-- game mods and integrations;
-- personal tools and apps;
-- atmospheric interfaces and structured digital ritual.
+- gameplay systems and experimental prototypes
+- Discord bots and automation
+- game tools, mods, and integrations
+- mobile and desktop apps
