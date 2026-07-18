@@ -4,13 +4,13 @@
 
 ---
 
-**Ritgear** is my solo development space for games, bots, integrations, and practical apps.
+**Ritgear** is an independent development studio creating Discord bots, mobile applications, gamified digital products, and small interactive games.
 
-I build gameplay prototypes, Discord community tools, game-related systems, and small products with clear UX and a strong atmosphere.
+Founded by [Treenixie](https://github.com/Treenixie), the studio combines practical functionality, clear UX, and engaging game-inspired mechanics.
 
 ## Current focus
 
-- gameplay systems and experimental prototypes
-- Discord bots and automation
-- game tools, mods, and integrations
-- mobile and desktop apps
+- Discord bots and community tools
+- mobile applications
+- gamified digital products
+- small games and experimental prototypes
