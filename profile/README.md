@@ -35,10 +35,10 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <a href="https://github.com/Avelea-app">
-        <img src="https://avatars.githubusercontent.com/u/273770300?v=4" width="100" alt="Avelea official logo" />
+      <a href="https://github.com/Ritegear/Avelea">
+        <img src="./Avelea_Logo.png" width="100" alt="Avelea official logo" />
       </a>
-      <h3><a href="https://github.com/Avelea-app">Avelea</a></h3>
+      <h3><a href="https://github.com/Ritegear/Avelea">Avelea</a></h3>
       <sub>PERSONAL CARE / MOBILE APPLICATION</sub>
       <p>A lightweight cycle tracker for symptoms, medication, and everyday notes. Simple, calm, and useful.</p>
       <p>
@@ -50,6 +50,20 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+
+## Avelea
+
+Avelea is a mobile health app created to make menstrual cycle tracking feel simple, supportive, and visually gentle. The project prioritizes clarity, emotional comfort, and a clean user experience, with a calm interface and thoughtful structure at its core.
+
+- **Focus:** Menstrual cycle tracking, supportive UX, clean visual design, and mobile-first development.
+- **Technology:** Flutter, Dart, Android / iOS.
+- **Development:** In progress, including the project structure, theming, and core architecture.
+- **Documentation:** [Avelea GitBook](https://avelea.gitbook.io/avelea/).
+- **Repository:** [Ritegear/Avelea](https://github.com/Ritegear/Avelea).
+- **Contact:** [avelea.app@protonmail.com](mailto:avelea.app@protonmail.com).
 
 <br>
 
