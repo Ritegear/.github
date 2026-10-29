@@ -18,7 +18,7 @@
   </a>
 </p>
 
-**Cervantes** is a modular, multi-guild Discord bot designed to make online communities easier to manage. Its database-backed configuration, permissions, monitoring and deployment foundations are in place; moderation workflows, community panels and activity features are still being developed.
+**Cervantes** is a modular, multi-guild Discord bot designed to make online communities easier to manage. Its database-backed configuration, permissions, monitoring and deployment foundations are in place; moderation workflows, community panels and activity features are planned for future releases.
 
 **[Source code](https://github.com/Ritegear/Cervantes)** &nbsp;·&nbsp; **[Documentation](https://cervantes.ritegear.dev/)** &nbsp;·&nbsp; **[Development roadmap](https://cervantes.ritegear.dev/roadmap/)**
 
