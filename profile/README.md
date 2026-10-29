@@ -1,55 +1,38 @@
 <p align="center">
   <a href="https://github.com/Ritegear">
-    <img src="./Ritegear_Logo.png" alt="Ritegear — Small rituals for large systems" width="340" />
+    <img src="./assets/studio-hero.svg" alt="Ritegear. Independent development studio. Small rituals for large systems." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Independent development studio</strong><br>
-  <sub>Thoughtful community tools, mobile experiences, and small pieces of useful software.</sub>
+  <sub>We build thoughtful tools for communities and everyday life.</sub>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="./assets/focus.svg" alt="Ritegear builds community systems and mobile experiences" width="100%" />
-</p>
-
-## Projects
+## Selected work
 
 <p align="center">
   <a href="https://github.com/Ritegear/Cervantes">
-    <img src="./assets/project-cervantes.svg" alt="01 / Cervantes — In development. A modular Discord bot for community management." width="100%" />
+    <img src="./assets/cervantes-showcase.svg" alt="Cervantes. In development. A modular Discord bot for community management and automation." width="100%" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ritegear/Cervantes">Repository</a>
-  &nbsp;·&nbsp;
-  <a href="https://cervantes.ritegear.dev/">Documentation</a>
-  &nbsp;·&nbsp;
-  <a href="https://cervantes.ritegear.dev/roadmap/">Roadmap</a>
-</p>
+**Cervantes** is a modular, multi-guild Discord bot designed to make online communities easier to manage. Its database-backed configuration, permissions, monitoring and deployment foundations are in place; moderation workflows, community panels and activity features are still being developed.
 
-Cervantes is a modular, multi-guild Discord bot designed to reduce routine work and make communities easier to manage. It is in **early development**, with PostgreSQL-backed server state, capability-based permissions, management safeguards, observability, and deployment foundations already in the codebase. Interactive community panels, moderation workflows, LFG tools, and activity systems are **planned**, not yet released.
+**[Source code](https://github.com/Ritegear/Cervantes)** &nbsp;·&nbsp; **[Documentation](https://cervantes.ritegear.dev/)** &nbsp;·&nbsp; **[Development roadmap](https://cervantes.ritegear.dev/roadmap/)**
 
 <br>
 
 <p align="center">
   <a href="https://github.com/Ritegear/Avelea">
-    <img src="./assets/project-avelea.svg" alt="02 / Avelea — Future project. A calm menstrual cycle tracking app." width="100%" />
+    <img src="./assets/avelea-showcase.svg" alt="Avelea. Future project. A calm mobile app for menstrual cycle and symptom tracking." width="100%" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ritegear/Avelea">Repository</a>
-  &nbsp;·&nbsp;
-  <a href="https://avelea.gitbook.io/avelea/">Project documentation</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:avelea.app@protonmail.com">Contact</a>
-</p>
+**Avelea** is a future mobile app for menstrual cycle tracking, symptoms, medication and everyday notes. Designed around clarity and comfort, it has early Flutter groundwork but is **not a released product**.
 
-Avelea is a **future mobile project** focused on menstrual cycle tracking, symptoms, medication, and everyday notes. Its direction is a gentle, accessible interface built with Flutter for iOS and Android. Early project work exists, but Avelea is presented here as a future product rather than a released app.
+**[Repository](https://github.com/Ritegear/Avelea)** &nbsp;·&nbsp; **[Project documentation](https://avelea.gitbook.io/avelea/)** &nbsp;·&nbsp; **[Contact](mailto:avelea.app@protonmail.com)**
 
 <br>
 
